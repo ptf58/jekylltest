@@ -10,7 +10,7 @@ Peepingtomfoolery
 <body>
 <h1>peepingtomfoolery</h1>
 </body>
-<img src=" jekylltest/ugh.jpeg">
+<img src="ugh.jpeg">
 <style>
 body {
 	background-color:gray;
