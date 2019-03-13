@@ -10,7 +10,7 @@ Peepingtomfoolery
 <body>
 <h1>peepingtomfoolery</h1>
 </body>
-<img src="https://github.com/ptf58/jekylltest/blob/master/ugh.jpeg" style="width:228px;height:135px;">
+<img src=" jekylltest/ugh.jpeg">
 <style>
 body {
 	background-color:gray;
@@ -20,3 +20,6 @@ body {
 </style>
 
 </html>
+
+       
+      
