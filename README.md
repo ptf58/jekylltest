@@ -10,7 +10,7 @@ Peepingtomfoolery
 <body>
 <h1>peepingtomfoolery</h1>
 </body>
-<img src="ugh.jpeg" width="150" height="90">
+<img src="ugh.jpeg" width="300" height="180">
 <style>
 body {
 	background-color:gray;
