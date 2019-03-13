@@ -13,7 +13,7 @@ Peepingtomfoolery
 
 <style>
 body {
-	background-color:dark gray;
+	background-color:gray;
 	color:#fff;
 	text-align:center;
 }
