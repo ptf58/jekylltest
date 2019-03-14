@@ -11,4 +11,4 @@ body {
 
        
       
-![ugh](filename.jpg)
+![ugh.jpeg](filename.jpg)
