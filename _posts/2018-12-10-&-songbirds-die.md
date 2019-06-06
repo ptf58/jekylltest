@@ -88,7 +88,7 @@ I’ve got a longer stick she can borrow, she’s welcome to that?
 
 He laughs so deep he coughs - Then coughs and laughs as well.
 
-The curate laughs so deep, so thoroughly, that as he spits the final exhale he tastes the cat excrement from the back of his throat.
+The curate laughs so deep, so thoroughly, that as he spits the final exhale he can taste it - the cause for Dennis’ animation - he tastes the  cat excrement from the back of his throat:
 
 Songbirds shall die.
 
